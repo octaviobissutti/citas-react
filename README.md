@@ -4,8 +4,9 @@
 
 # Citas veterinaria
 
+
 <p align="left">
-  <img height="150" src="./pokemon.png" />
+  <h2>Link: https://citas-veterinarias-animales.netlify.app/</h2>
 </p>
 
 ## Funcionalidad
